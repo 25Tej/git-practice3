@@ -1,0 +1,1 @@
+let hello = (val) =>{ return val +"hello"}
